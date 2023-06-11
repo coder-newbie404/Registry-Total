@@ -13,10 +13,7 @@ function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    Axios.post('http://localhost:4000/data', {
-      firstName: name,
-      companyRole: role
-    })
+    Axios.get('http://localhost:4000/regisloclst')
     .then(function (response) {
       console.log(response.data);
     })
