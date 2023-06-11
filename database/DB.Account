@@ -1,30 +1,30 @@
 [{
   "_id": {
-    "$oid": "6485778b58de32440ec54208"
+    "$oid": "648595079cca4078696ec3bb"
   },
-  "Account": "admin",
-  "Password": "admin",
-  "PhoneNumber": 123456789,
-  "Email": "admin@gmail.com",
-  "Permission": 3
+  "account": "admin",
+  "password": "admin",
+  "phoneNumber": "123456789",
+  "email": "admin@gmail.com",
+  "permission": 3
 },
 {
   "_id": {
-    "$oid": "6485778b58de32440ec54209"
+    "$oid": "648595079cca4078696ec3bc"
   },
-  "Account": "2902S",
-  "Password": "hanoi",
-  "PhoneNumber": 213456789,
-  "Email": "2902S@gmail.com",
-  "Permission": 2
+  "account": "2902S",
+  "password": "hanoi",
+  "phoneNumber": "213456789",
+  "email": "2902S@gmail.com",
+  "permission": 2
 },
 {
   "_id": {
-    "$oid": "6485778b58de32440ec5420a"
+    "$oid": "648595079cca4078696ec3bd"
   },
-  "Account": "user",
-  "Password": "user",
-  "PhoneNumber": 312456789,
-  "Email": "user@gmail.com",
-  "Permission": 1
+  "account": "user",
+  "password": "user",
+  "phoneNumber": "312456789",
+  "email": "user@gmail.com",
+  "permission": 1
 }]
