@@ -13,7 +13,7 @@ function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    Axios.get('http://localhost:4000/data', {
+    Axios.post('http://localhost:4000/data', {
       firstName: name,
       companyRole: role
     })
