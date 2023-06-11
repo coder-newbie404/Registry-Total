@@ -1,30 +1,33 @@
 [{
   "_id": {
-    "$oid": "648595079cca4078696ec3bb"
+    "$oid": "6485d90221a85a17d181a7cb"
   },
   "account": "admin",
   "password": "admin",
   "phoneNumber": "123456789",
+  "dateOfBirth": "09/09/2002",
   "email": "admin@gmail.com",
   "permission": 3
 },
 {
   "_id": {
-    "$oid": "648595079cca4078696ec3bc"
+    "$oid": "6485d90221a85a17d181a7cc"
   },
   "account": "2902S",
   "password": "hanoi",
   "phoneNumber": "213456789",
+  "dateOfBirth": "01/01/2000",
   "email": "2902S@gmail.com",
   "permission": 2
 },
 {
   "_id": {
-    "$oid": "648595079cca4078696ec3bd"
+    "$oid": "6485d90221a85a17d181a7cd"
   },
   "account": "user",
   "password": "user",
   "phoneNumber": "312456789",
+  "dateOfBirth": "23/10/2002",
   "email": "user@gmail.com",
   "permission": 1
 }]
