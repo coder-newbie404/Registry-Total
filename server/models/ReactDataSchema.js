@@ -11,5 +11,5 @@ const ReactFormDataSchema = new mongoose.Schema({
     }
 });
 
-const Vehicle = mongoose.model('Vehicle', ReactFormDataSchema);
-module.exports = Vehicle;
+const Account = mongoose.model('Account', ReactFormDataSchema);
+module.exports = Account;
