@@ -16,6 +16,7 @@ app.post("/newacc", async (req, res) => {
         account: req.body.acc,
         password: req.body.pwd,
         phoneNumber: req.body.phone,
+        dateOfBirth: req.body.birth,
         email: req.body.email,
         permission: 1,
     });

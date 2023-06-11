@@ -8,6 +8,7 @@
             - acc: tên tk
             - pwd: mk
             - phone: sdt
+            - birth: Ngày sinh
             - email: email
         * return : "inserted data.." || error?
     + Thêm trung tâm đăng kiểm: POST '/newregisloc'
