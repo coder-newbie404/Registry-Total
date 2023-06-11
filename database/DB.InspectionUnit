@@ -1,0 +1,1932 @@
+[{
+  "_id": {
+    "$oid": "6485743058de32440ec540ef"
+  },
+  "InspectionUnit": "1101S",
+  "Address": "Km4 - P. Sông Hiến - TP. Cao Bằng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f0"
+  },
+  "InspectionUnit": "1102D",
+  "Address": "Tổ 8, phường Ngọc Xuân, TP. Cao Bằng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f1"
+  },
+  "InspectionUnit": "1201D",
+  "Address": "50 Lê Đại Hành - Phường Vĩnh Trại - Lạng Sơn"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f2"
+  },
+  "InspectionUnit": "1202D",
+  "Address": "tổ 5, khối 1+2, thị trấn Cao Lộc, huyện Cao Lộc, tỉnh Lạng Sơn"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f3"
+  },
+  "InspectionUnit": "1401D",
+  "Address": "Phường Hà Phong - Thành phố Hạ Long - Quảng Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f4"
+  },
+  "InspectionUnit": "1402D",
+  "Address": "Phường Thanh Sơn - T.p Uông Bí - Quảng Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f5"
+  },
+  "InspectionUnit": "1403D",
+  "Address": "Km 9, xã Hải Đông – T.p Móng Cái - Quảng Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f6"
+  },
+  "InspectionUnit": "1404D",
+  "Address": "Tổ 5, khu 11, Phường Mông Dương, Tp. Cẩm Phả, tỉnh Quảng Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f7"
+  },
+  "InspectionUnit": "1405D",
+  "Address": "Ô đất số 9,10,34 và 35, lô ĐNN_D thuộc Cụm Công nghiệp Hà Khánh, Tp. Hạ Long, tỉnh Quảng Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f8"
+  },
+  "InspectionUnit": "1406D",
+  "Address": "Khu CN Cái Lân, phường Giếng Đáy, Tp. Hạ Long, tỉnh Quảng Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540f9"
+  },
+  "InspectionUnit": "1407D",
+  "Address": "Tổ 1, khu 4, P. Quang Hanh, Tp. Cẩm Phả, tỉnh Quảng Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540fa"
+  },
+  "InspectionUnit": "1501V",
+  "Address": "Km 90 QL 5 mới, Khu Cam Lộ 2, Hồng Bàng, Hải Phòng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540fb"
+  },
+  "InspectionUnit": "1502S",
+  "Address": "Khu Hạ Đoạn 2, P. Đông Hải 2, Q. Hải An, Hải Phòng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540fc"
+  },
+  "InspectionUnit": "1503D",
+  "Address": "Kênh Giang, Thuỷ Nguyên, Hải Phòng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540fd"
+  },
+  "InspectionUnit": "1504D",
+  "Address": "Cụm CN Cầu Nghìn, xã Hưng Nhân, huyện Vĩnh Bảo, TP Hải Phòng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540fe"
+  },
+  "InspectionUnit": "1505D",
+  "Address": "Số 01 đường Lê Thánh Tông, phường Máy Tơ, quận Ngô Quyền, Tp. Hải Phòng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec540ff"
+  },
+  "InspectionUnit": "1506D",
+  "Address": "Lô Cn 3.2H khu công nghiệp Đình Vũ, P. Đông Hải, Q. Hải An, Tp. Hải Phòng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54100"
+  },
+  "InspectionUnit": "1507D",
+  "Address": "Địa chỉ: Tổ dân phố Đồng Tâm, phường Đồng Hòa, quận Kiến An, Tp. Hải Phòng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54101"
+  },
+  "InspectionUnit": "1701D",
+  "Address": "Phường Trần Hưng Đạo, TP Thái Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54102"
+  },
+  "InspectionUnit": "1702D",
+  "Address": "Thôn Nam quán, xã Đông Các, huyên Đông Hưng, TP Thái Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54103"
+  },
+  "InspectionUnit": "1801S",
+  "Address": "Km 101, QL10, xã Mỹ Tân, Mỹ Lộc, TP Nam Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54104"
+  },
+  "InspectionUnit": "1802S",
+  "Address": "Số 3 Quang Trung, TP. Nam Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54105"
+  },
+  "InspectionUnit": "1802D",
+  "Address": "Km 150+800 (Phải tuyến) QL 21 (Đường Lê Đức Thọ), xã Nghĩa An, huyện Nam Trực, tỉnh Nam Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54106"
+  },
+  "InspectionUnit": "1803D",
+  "Address": "xã Hải Thanh, huyện Hải Hậu, tỉnh Nam Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54107"
+  },
+  "InspectionUnit": "1804D",
+  "Address": "Km3, Đại Lộ Thiên Trường, xã Mỹ Hưng, huyện Mỹ Lộc, Tp. Nam Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54108"
+  },
+  "InspectionUnit": "1805D",
+  "Address": "thửa đất số 350, tờ bản đồ số 5, Đại lộ Thiên Trường, Lộc Hòa, Tp. Nam Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54109"
+  },
+  "InspectionUnit": "1901V",
+  "Address": "2821, đại lộ Hùng Vương, p. Vân Cơ, TP. Việt Trì, Phú Thọ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5410a"
+  },
+  "InspectionUnit": "1902D",
+  "Address": "QL2, Khu 3, xã Phú Hộ, thị xã Phú Thọ, tỉnh Phú Thọ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5410b"
+  },
+  "InspectionUnit": "1904D",
+  "Address": "Khu 4, xã Kinh Kệ, huyện Lâm Thao, tỉnh Phú Thọ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5410c"
+  },
+  "InspectionUnit": "1905D",
+  "Address": "Khu Bãi Tần, thị trấn Thanh Sơn, huyện Thanh Sơn, tỉnh Phú Thọ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5410d"
+  },
+  "InspectionUnit": "1906D",
+  "Address": "Khu Hóc Tranh, xóm Mai, xã Trưng Vương, Tp. Việt Trì, tỉnh Phú Thọ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5410e"
+  },
+  "InspectionUnit": "1908D",
+  "Address": "Khu 7, xã Phượng Lâu, Tp. Việt Trì, tỉnh Phú Thọ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5410f"
+  },
+  "InspectionUnit": "2001S",
+  "Address": "Tổ 1A, Phường Tân lập - TP Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54110"
+  },
+  "InspectionUnit": "2002S",
+  "Address": "Xóm Ao Vàng, Xã Cao Ngạn, TP Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54111"
+  },
+  "InspectionUnit": "2003D",
+  "Address": "Cụm công nghiệp Nguyên Gon, phường Cải Đan, TP. Sông Công, tỉnh Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54112"
+  },
+  "InspectionUnit": "2004D",
+  "Address": "Xóm 9, xã Cổ Lũng, huyện Phú Lương, tỉnh Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54113"
+  },
+  "InspectionUnit": "2005D",
+  "Address": "Ngõ 845, đường Dương Tự Minh, tổ 6, phường Quang Vinh,T.p Thái Nguyên, tỉnh Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54114"
+  },
+  "InspectionUnit": "2006D",
+  "Address": "Ngõ 398, đường Thống Nhất, phường Đồng Quang, Tp. Thái Nguyên, tỉnh Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54115"
+  },
+  "InspectionUnit": "2007D",
+  "Address": "Tổ 2, phường Cam Giá, Tp. Thái Nguyên, tỉnh Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54116"
+  },
+  "InspectionUnit": "2008D",
+  "Address": "Tổ dân phố Đình, phường Nam Tiến, thành phố Thái Nguyên, tỉnh Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54117"
+  },
+  "InspectionUnit": "2009D",
+  "Address": "Xã Sơn Cẩm, Tp. Thái Nguyên, tỉnh Thái Nguyên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54118"
+  },
+  "InspectionUnit": "2101S",
+  "Address": "Km2 - Phường Nguyễn Thái Học - TP Yên Bái"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54119"
+  },
+  "InspectionUnit": "2102D",
+  "Address": "bản Nà Làng, xã Nghĩa Lợi, TX. Nghĩa Lộ, tỉnh Yên Bái"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5411a"
+  },
+  "InspectionUnit": "2201S",
+  "Address": "Thôn Yên Phú, xã An Tường - TP. Tuyên Quang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5411b"
+  },
+  "InspectionUnit": "2202D",
+  "Address": "Thôn Lượng, xã Tứ Quận, huyện Yên Sơn, tỉnh Tuyên Quang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5411c"
+  },
+  "InspectionUnit": "2203D",
+  "Address": "Tổ 16, phường Tân Hà, Tp. Tuyên Quang, tỉnh Tuyên Quang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5411d"
+  },
+  "InspectionUnit": "2301S",
+  "Address": "Tổ 17 - Phường Nguyễn Trãi - TP. Hà Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5411e"
+  },
+  "InspectionUnit": "2401D",
+  "Address": "Phường Bắc Cường - Tp Lào Cai - Tỉnh Lào Cai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5411f"
+  },
+  "InspectionUnit": "2403D",
+  "Address": "Quốc lộ 4E, thôn Tiến Lợi, xã Xuân Giao, huyện Bảo Thắng, tỉnh Lào Cai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54120"
+  },
+  "InspectionUnit": "2404D",
+  "Address": "Lô 21, KCN Bắc Duyên Hải, Tp. Lào Cai, tỉnh Lào Cai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54121"
+  },
+  "InspectionUnit": "2501S",
+  "Address": "Phường Tân Phong, Thị xã Lai Châu, Lai Châu"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54122"
+  },
+  "InspectionUnit": "2602D",
+  "Address": "Tổ 8 Phường Quyết Thắng - TP. Sơn La - Tỉnh Sơn La"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54123"
+  },
+  "InspectionUnit": "2601D",
+  "Address": "bản Noọng La, phường chiềng Sinh - TP Sơn La"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54124"
+  },
+  "InspectionUnit": "2603D",
+  "Address": "Km177, Quốc lộ 6, Bản Chiềng Đi 1, xã Vân Hồ, huyện Vân Hồ, tỉnh Sơn La"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54125"
+  },
+  "InspectionUnit": "2701S",
+  "Address": "Phố 10 - phường Thanh Trườn - thành phố Điện Biên Phủ - tỉnh Điện Biên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54126"
+  },
+  "InspectionUnit": "2801S",
+  "Address": "Km 71+100 - Quốc lộ 6 - P.Đồng Tiến - TP Hòa Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54127"
+  },
+  "InspectionUnit": "2901S",
+  "Address": "Số 454 Phạm Văn Đồng - Từ Liêm - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54128"
+  },
+  "InspectionUnit": "2901V",
+  "Address": "Km 15+200 Quốc lộ 1A, Thôn Yên Phú - Xã Liên Ninh - Thanh Trì - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54129"
+  },
+  "InspectionUnit": "2902S",
+  "Address": "Đường Đặng Phúc Thông- Yên Viên- Gia Lâm-Hà Nội."
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5412a"
+  },
+  "InspectionUnit": "2902V",
+  "Address": "Xã Phú Thị, Huyện Gia Lâm - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5412b"
+  },
+  "InspectionUnit": "2903S",
+  "Address": "Số 3 Lê Quang Đạo - Mỹ Đình - Nam Từ Liên - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5412c"
+  },
+  "InspectionUnit": "2903V",
+  "Address": "Láng Thượng - Đống Đa - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5412d"
+  },
+  "InspectionUnit": "2904V",
+  "Address": "Km 8, đường Bắc Thăng Long – Nội Bài, Xã Quang Minh, Huyện Mê Linh, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5412e"
+  },
+  "InspectionUnit": "2905V",
+  "Address": "Số 49 Phố Đức Giang, Phường Đức Giang, Quận Long Biên, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5412f"
+  },
+  "InspectionUnit": "2906V",
+  "Address": "Km 4 - Đường 70 - Xã Tam Hiệp - Thanh trì - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54130"
+  },
+  "InspectionUnit": "2907D",
+  "Address": "Km 1, QL3, Du Nội, Mai Lâm, Đông Anh- Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54131"
+  },
+  "InspectionUnit": "2908D",
+  "Address": "Lô 6, cụm CN Lai Xá, xã Kim Chung, Hoài Đức,Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54132"
+  },
+  "InspectionUnit": "2909D",
+  "Address": "685, đường Lĩnh Nam, phường Lĩnh Nam, Hoàng Mai, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54133"
+  },
+  "InspectionUnit": "2910D",
+  "Address": "Bãi đỗ xe công cộng và dịch vụ Đền Lừ, phường Hoàng Văn Thụ, quận Hoàng Mai, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54134"
+  },
+  "InspectionUnit": "2911D",
+  "Address": "Km31, QL 6, xã Đông Sơn, Chương Mỹ, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54135"
+  },
+  "InspectionUnit": "2912D",
+  "Address": "Km 21+200 QL3, Mai Đình, Sóc Sơn, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54136"
+  },
+  "InspectionUnit": "2913D",
+  "Address": "Thôn Sơn Du, xã Nguyên Khê, Đông Anh, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54137"
+  },
+  "InspectionUnit": "2914D",
+  "Address": "Cụm CN Thanh Oai, Bích Hòa, Thanh Oai, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54138"
+  },
+  "InspectionUnit": "2915D",
+  "Address": "Km21, xã Hà Hồi, huyện Thường Tín, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54139"
+  },
+  "InspectionUnit": "2916D",
+  "Address": "144/95 đường Vũ Xuân Thiều, phường Sài Đồng, quận Long Biên, Hà Nội."
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5413a"
+  },
+  "InspectionUnit": "2917D",
+  "Address": "Tổ 16, đường Nguyễn Văn Linh, phường Thạch Bàn, quận Long Biên, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5413b"
+  },
+  "InspectionUnit": "2918D",
+  "Address": "Km2+100, đường tránh QL32, xã Thanh Mỹ, Tx. Sơn Tây, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5413c"
+  },
+  "InspectionUnit": "2921D",
+  "Address": "Ô số 3 lô 5, Cụm công nghiệp An Khánh, huyện An Đức, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5413d"
+  },
+  "InspectionUnit": "2922D",
+  "Address": "Khu đất số 10 đường 254 phố Tây Sơn, thị trấn Phùng, huyện Đan Phượng, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5413e"
+  },
+  "InspectionUnit": "2923D",
+  "Address": "Km25, Quốc lộ 6, KCN Phú Nghĩa, huyện Chương Mỹ, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5413f"
+  },
+  "InspectionUnit": "2925D",
+  "Address": "Đường Trần Vỹ, phường Mai Dịch, quận Cầu Giấy, Thành phố Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54140"
+  },
+  "InspectionUnit": "2927D",
+  "Address": "Km số 3, đường Phạm Văn Đồng, phường Cổ Nhuế 1, quận Bắc Từ Liêm, Tp Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54141"
+  },
+  "InspectionUnit": "2929D",
+  "Address": "Số 115. tổ 15, phường Kiến Hưng, quận Hà Đông, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54142"
+  },
+  "InspectionUnit": "2930D",
+  "Address": "Lô 24, cụm CN Yên Nghĩa, P. Yên Nghĩa, Q. Hà Đông, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54143"
+  },
+  "InspectionUnit": "2932D",
+  "Address": "Số 9, tổ 15, đường Pháp Vân, phường Yên Sở, quận Hoàng Mai, Tp. Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54144"
+  },
+  "InspectionUnit": "3301S",
+  "Address": "Km15 - Quốc lộ 6 - Hà Đông - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54145"
+  },
+  "InspectionUnit": "3302S",
+  "Address": "Phường Quang Trung - Thị Xã Sơn tây - Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54146"
+  },
+  "InspectionUnit": "3401D",
+  "Address": "Đường Tân Dân, P. Việt Hòa,TP.Hải Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54147"
+  },
+  "InspectionUnit": "3402D",
+  "Address": "Km 33+300, cụm CN II, p. Văn An, thị xã Chí Linh,TP.Hải Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54148"
+  },
+  "InspectionUnit": "3403D",
+  "Address": "thôn Dân, xã Đồng Tâm, huyện Ninh Giang, tỉnh Hải Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54149"
+  },
+  "InspectionUnit": "3404D",
+  "Address": "Thôn Quỳnh Khê, xã Kim Xuyên, huyên Kim Thành, Tỉnh Hải Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5414a"
+  },
+  "InspectionUnit": "3405D",
+  "Address": "Phân khu 2, đô thị mới phía nam thành phố Hải Dương, xã Liên Hồng, Tp. Hải Dương, tỉnh Hải Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5414b"
+  },
+  "InspectionUnit": "3407D",
+  "Address": "Cụm công nghiệp Ngọc Sơn, xã Ngọc Sơn, Tp. Hải Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5414c"
+  },
+  "InspectionUnit": "3501D",
+  "Address": "Số 58 đường Trần Nhân Tông, phố An Hòa, phường Ninh Phong, TP. Ninh Bình, tỉnh Ninh Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5414d"
+  },
+  "InspectionUnit": "3502D",
+  "Address": "Phố Bích Sơn, P. Bích Đào, TP Ninh Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5414e"
+  },
+  "InspectionUnit": "3503D",
+  "Address": "Tổ 2, phường Bắc Sơn, Tp. Tam Điệp, Tỉnh Ninh Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5414f"
+  },
+  "InspectionUnit": "3504D",
+  "Address": "Thôn Cổ Loan Hạ, giáp đường 477, xã Ninh Tiến, Tp. Ninh Bình, tỉnh Ninh Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54150"
+  },
+  "InspectionUnit": "3601S",
+  "Address": "267 Bà Triệu - Đông Thọ - TP Thanh Hóa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54151"
+  },
+  "InspectionUnit": "3602S",
+  "Address": "Phường Bắc Sơn - TX Bỉm Sơn - Thanh Hoá"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54152"
+  },
+  "InspectionUnit": "3603D",
+  "Address": "Đường Võ Nguyên Giáp, P. Quảng Thành, T.p Thanh Hoá"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54153"
+  },
+  "InspectionUnit": "3604D",
+  "Address": "Phố 7, Phường Quảng Thắng, T.p Thanh Hóa, tỉnh Thanh Hóa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54154"
+  },
+  "InspectionUnit": "3605D",
+  "Address": "Xã Thạch Quảng, huyện Thạch Thành, tỉnh Thanh Hóa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54155"
+  },
+  "InspectionUnit": "3606D",
+  "Address": "Khu phố Ngọc Minh, thị trấn Ngọc Lặc, huyện Ngọc Lặc. Tỉnh Thanh Hóa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54156"
+  },
+  "InspectionUnit": "3608D",
+  "Address": "Xã Đông Hoàng, huyện Đông Sơn, tỉnh Thanh Hóa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54157"
+  },
+  "InspectionUnit": "3609D",
+  "Address": "25/38 Phú Thọ 3, Phường Phú Sơn, Tp. Thanh Hóa, tỉnh Thanh Hóa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54158"
+  },
+  "InspectionUnit": "3610D",
+  "Address": "Quốc lộ 10, xã Liên Lộc, huyện Hậu Lộc, tỉnh Thanh Hóa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54159"
+  },
+  "InspectionUnit": "3701S",
+  "Address": "72 Phan Bội Châu - TP Vinh - Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5415a"
+  },
+  "InspectionUnit": "3702S",
+  "Address": "Xã Đông Hiếu – TX Thái Hoà - Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5415b"
+  },
+  "InspectionUnit": "3703D",
+  "Address": "Km 6, QL 46, Nghi Thạch, Nghi Lộc, Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5415c"
+  },
+  "InspectionUnit": "3704D",
+  "Address": "Xã Diễn Hòng, huyện Diễn Châu, tỉnh Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5415d"
+  },
+  "InspectionUnit": "3705D",
+  "Address": "Xóm 1, xã Nghi Long, huyện Nghi Lộc, tỉnh Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5415e"
+  },
+  "InspectionUnit": "3706D",
+  "Address": "QL7B, xã Yên Sơn, huyện Đô Lương, tỉnh Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5415f"
+  },
+  "InspectionUnit": "3707D",
+  "Address": "Xóm 5, xã Quỳnh Lộc, thị xã Hoàng Mai, tỉnh Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54160"
+  },
+  "InspectionUnit": "3708D",
+  "Address": "Xóm 3, xã Hưng Thịnh, huyện Hưng Nguyên, tỉnh Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54161"
+  },
+  "InspectionUnit": "3709D",
+  "Address": "Khối 9, phường Quán Bàu, Tp. Vinh, tỉnh Nghệ An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54162"
+  },
+  "InspectionUnit": "3801D",
+  "Address": "Km 9 tránh Hà Tĩnh, xã Thạch Đài, Thạch Hà, Hà Tĩnh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54163"
+  },
+  "InspectionUnit": "3802D",
+  "Address": "km486+354 QL1A, phường Đậu Liêu, TX. Hồng Lĩnh, tỉnh Hà Tĩnh."
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54164"
+  },
+  "InspectionUnit": "3803D",
+  "Address": "phường Kỳ Trinh, thị xã Kỳ Anh, tỉnh Hà Tĩnh."
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54165"
+  },
+  "InspectionUnit": "3804D",
+  "Address": "Xã Trung Lễ, huyện Đức Thọ, tỉnh Hà Tĩnh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54166"
+  },
+  "InspectionUnit": "3805D",
+  "Address": "Km821+810, đường Hồ Chí Minh, xã Hương Long, huyện Hương Khê, tỉnh Hà Tĩnh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54167"
+  },
+  "InspectionUnit": "4301S",
+  "Address": "25 Hoàng Văn Thái - P.Hòa Minh - Q.Liên Chiểu - TP. Đà Nẵng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54168"
+  },
+  "InspectionUnit": "4302S",
+  "Address": "Km 800 + 40 Xã Hoà Châu – Hoà Vang - Đà Nẵng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54169"
+  },
+  "InspectionUnit": "4304D",
+  "Address": "Đường số 01, KCN Hòa Cầm, P.Hòa Thọ Tây, Q. Cẩm Lệ, Tp. Đà Nẵng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5416a"
+  },
+  "InspectionUnit": "4305D",
+  "Address": "Số 10B, Tú Mỡ, phường Hòa An, quận Cẩm Lệ, Tp. Đà Nẵng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5416b"
+  },
+  "InspectionUnit": "4701D",
+  "Address": "Km 4+500 - QL 14 - Tân An - Buôn Mê Thuột - Đăklăk"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5416c"
+  },
+  "InspectionUnit": "4702D",
+  "Address": "Km 12 - QL 14 – Thôn 7- Hoà Phú - Buôn Mê Thuột - Đăklăk"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5416d"
+  },
+  "InspectionUnit": "4703D",
+  "Address": "Thôn 9, xã Ea Đar, Eakar, Đắk lắk"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5416e"
+  },
+  "InspectionUnit": "4704D",
+  "Address": "75 Nguyễn Thị Định, P. Thành Nhất, TP. Buôn Ma Thuột, Đắk lắk"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5416f"
+  },
+  "InspectionUnit": "4705D",
+  "Address": "Thôn Pơng Drang, Krông Buk, Đắk lắk"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54170"
+  },
+  "InspectionUnit": "4706D",
+  "Address": "Thôn Hòa Thắng, xã Hòa Đông, huyện Krông Pắc, tỉnh Đắk Lắk"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54171"
+  },
+  "InspectionUnit": "4801D",
+  "Address": "Km 3 QL 14, Tổ 4, P Nghĩa Tân, TX Gia Nghĩa, Đak Nông"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54172"
+  },
+  "InspectionUnit": "4901S",
+  "Address": "Số 1 Tô Hiến Thành - P.3 - TP. Đà Lạt"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54173"
+  },
+  "InspectionUnit": "4902S",
+  "Address": "01 Huỳnh Thúc Kháng, P.2, TX Bảo Lộc, Lâm Đồng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54174"
+  },
+  "InspectionUnit": "4903S",
+  "Address": "Thị trấn Liên Nghĩa, Đức Trọng, Lâm Đồng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54175"
+  },
+  "InspectionUnit": "4904D",
+  "Address": "Số 204 đường Hoàng Văn Thụ, phường 1, Tp. Bảo Lộc, tỉnh Lâm Đồng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54176"
+  },
+  "InspectionUnit": "5001S",
+  "Address": "Lô 13, đường số 07, KCN Tân Tạo mở rộng, phường Tân Tạo A, quận Bình Tân, Tp. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54177"
+  },
+  "InspectionUnit": "5002S",
+  "Address": "343/20 Lạc Long Quân - P.5 - Quận 11"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54178"
+  },
+  "InspectionUnit": "5003S",
+  "Address": "Số 6/6 - QL 13 - P.Hiệp Bình Chánh - Tp.Thủ Đức"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54179"
+  },
+  "InspectionUnit": "5003V",
+  "Address": "107 Đường Phú Châu - P. Tam Bình - Q.Thủ Đức"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5417a"
+  },
+  "InspectionUnit": "5003V",
+  "Address": "Khu phố 4, Trường Sơn, Linh Trung,Q.Thủ Đức"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5417b"
+  },
+  "InspectionUnit": "5004V",
+  "Address": "Lô H4, khu công nghiệp cát lái - Cụm 2, phường Thạnh Mỹ Lợi, quận 2, TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5417c"
+  },
+  "InspectionUnit": "5005V",
+  "Address": "1143/3B, QL 1A, KP3, P. An Phú Đông, Q.12, T.p HCM"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5417d"
+  },
+  "InspectionUnit": "5006V",
+  "Address": "118 Huỳnh Tấn Phát - P.Tân Thuận Tây - Quận 7 - TP. HCM."
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5417e"
+  },
+  "InspectionUnit": "5007V",
+  "Address": "428/56 Quốc lộ 1, P.Bình Hưng Hoà B, Q.Bình Tân, T.p HCM"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5417f"
+  },
+  "InspectionUnit": "5008D",
+  "Address": "218/42 đường TA28, Phường Thới An, Quận 12, TP HCM"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54180"
+  },
+  "InspectionUnit": "5009D",
+  "Address": "201, tỉnh lộ 8, xã Tân Thạnh Tây, huyện Củ Chi, TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54181"
+  },
+  "InspectionUnit": "5010D",
+  "Address": "số 5, km14+700, đg 85, Tân Phú Trung, Củ Chi, TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54182"
+  },
+  "InspectionUnit": "5012D",
+  "Address": "D3/16G, khu phố 4, thị trấn Tân Túc, huyện Bình Chánh, TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54183"
+  },
+  "InspectionUnit": "5013D",
+  "Address": "Số A5/20H6, Trần Đại Nghĩa, Ấp 1, Tân Kiên, huyện Bình Chánh, TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54184"
+  },
+  "InspectionUnit": "5014D",
+  "Address": "Số 5A, quốc lộ 22, quốc lộ Thới Sơn, H. Hóc Môn, Tp. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54185"
+  },
+  "InspectionUnit": "5015D",
+  "Address": "Số 36, Hoàng Hữu Nam, Quận 9, Tp. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54186"
+  },
+  "InspectionUnit": "5017D",
+  "Address": "Số 1031, đường Nguyễn Hữu Thọ, ấp 2, xã Long Thới, huyện Nhà Bè, Tp. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54187"
+  },
+  "InspectionUnit": "5019D",
+  "Address": "117/2D1, đường Hồ Văn Long, khu phố 3, P. Tân Tạo, Q. Bình Tân, Tp. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54188"
+  },
+  "InspectionUnit": "6001S",
+  "Address": "Số 25, Đường 2A, KCN Biên Hoà II - P.An Bình - TP Biên Hoà - Tỉnh Đồng Nai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54189"
+  },
+  "InspectionUnit": "6002S",
+  "Address": "Khu Xuân Bình - TT Xuân lộc - Long Khánh - Đồng Nai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5418a"
+  },
+  "InspectionUnit": "6003S",
+  "Address": "QL 20, Ấp Trung Hoà, Ngọc Định, Định Quán, Đồng Nai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5418b"
+  },
+  "InspectionUnit": "6004D",
+  "Address": "Số 1A, xa lộ Hà Nội, phường Tân Biên, thành phố Biên Hòa, tỉnh Đồng Nai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5418c"
+  },
+  "InspectionUnit": "6005D",
+  "Address": "370/2A Võ Nguyên ​​​​​Giáp, xã Phước Tân​​, TP. Biên Hòa, tỉnh Đồng Nai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5418d"
+  },
+  "InspectionUnit": "6006D",
+  "Address": "Xá An Phước, Huyện Long Thành-Đồng Nai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5418e"
+  },
+  "InspectionUnit": "6101S",
+  "Address": "QL13 - P.Hiệp thành - TP. Thủ Dầu Một - Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5418f"
+  },
+  "InspectionUnit": "6102S",
+  "Address": "Đường Nguyễn Thị Minh Khai, khu phố Tân Thắng, phường Tân Bình, Tp. Dĩ An, tỉnh Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54190"
+  },
+  "InspectionUnit": "6103S",
+  "Address": "Khu phố 9, phường Phú Hòa, TP. Thủ Dầu Một, tỉnh Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54191"
+  },
+  "InspectionUnit": "6103D",
+  "Address": "Đường ĐX 82, Khu 2, P. Định Hòa, T.p TDM, Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54192"
+  },
+  "InspectionUnit": "6104D",
+  "Address": "414/3B ĐL Bình Dương, Thạnh Bình, Thuận An, Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54193"
+  },
+  "InspectionUnit": "6105D",
+  "Address": "Thửa đất số 117, tờ bản đồ số 23, KCN Nam Tân Uyên, phường Khánh Bình, thị xã Tân Uyên, tỉnh Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54194"
+  },
+  "InspectionUnit": "6106D",
+  "Address": "Số 216, khu phố 1, phường Tân Bình, thị xã Dĩ An, Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54195"
+  },
+  "InspectionUnit": "6109D",
+  "Address": "19/2 khu phố Bình Đáng, phường Bình Hòa, Tx. Thuận Anh, tỉnh Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54196"
+  },
+  "InspectionUnit": "6110D",
+  "Address": "291, QL 13, Khu 2, P. Mỹ Phước, Tx. Bến Cát, tỉnh Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54197"
+  },
+  "InspectionUnit": "6111D",
+  "Address": "Lô CC-9A, đường NE9, khu công nghiệp Mỹ Phước 3, phường Thới Hòa, thị xã Bến Cát, tỉnh Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54198"
+  },
+  "InspectionUnit": "6112D",
+  "Address": "Thửa đất số 294, tờ bản đồ số DC 9.4, khu phố Đông, phường Vĩnh Phú, Tp. Thuận An, tỉnh Bình Dương"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54199"
+  },
+  "InspectionUnit": "6201S",
+  "Address": "Số 12 Quốc Lộ 1 - Phường 5 - Thị xã Tân An - Long An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5419a"
+  },
+  "InspectionUnit": "6202D",
+  "Address": "356 KP9, QL1A, TT Bến Lức, Long An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5419b"
+  },
+  "InspectionUnit": "6203D",
+  "Address": "Khu Công nghiệp Hải Sơn, ấp Bình Tiền 2, xã Đức Hòa Hạ, huyên Đức Hòa, tỉnh Long An"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5419c"
+  },
+  "InspectionUnit": "6301S",
+  "Address": "Thân Cửu nghĩa - Huyện Châu Thành - Tiền Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5419d"
+  },
+  "InspectionUnit": "6302D",
+  "Address": "Xã Tam Hiệp, huyện Châu Thành, tỉnh Tiền Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5419e"
+  },
+  "InspectionUnit": "6303D",
+  "Address": "Ấp đông B, xã Nhị Bình, huyện Châu Thành, tỉnh Tiền Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec5419f"
+  },
+  "InspectionUnit": "6401V",
+  "Address": "10/2 Đinh Tiên Hoàng - F8 - T.P Vĩnh Long"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a0"
+  },
+  "InspectionUnit": "6501S",
+  "Address": "19A, KCN Trà nóc 1, Q Bình Thuỷ, Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a1"
+  },
+  "InspectionUnit": "6502S",
+  "Address": "KV1, phường Hưng Thạnh, quận Cái Răng, TP Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a2"
+  },
+  "InspectionUnit": "6502D",
+  "Address": "số 26B, Nguyễn Văn Linh, phường Long Hòa, quận Bình Thủy, Cần Thơ."
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a3"
+  },
+  "InspectionUnit": "6503D",
+  "Address": "9A, Quốc lộ 91B, Khu vực Bình Hòa A, phường Phước Thới, quận Ô Môn, Tp. Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a4"
+  },
+  "InspectionUnit": "6504D",
+  "Address": "Khu vực Tràng Thọ 1, phường Thốt Nốt, Q. Thốt Nốt, Tp. Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a5"
+  },
+  "InspectionUnit": "6505D",
+  "Address": "Khu vực 4, phường Hưng Thạnh, quận Cái Răng, Tp. Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a6"
+  },
+  "InspectionUnit": "6506D",
+  "Address": "Ấp Vĩnh Long, xã Vĩnh Trinh, huyện Vĩnh Thanh, Tp. Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a7"
+  },
+  "InspectionUnit": "6601S",
+  "Address": "Số 386, Ấp 1, Điện Biên Phủ, xã Mỹ Trà, TP Cao lãnh, tỉnh Đồng Tháp"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a8"
+  },
+  "InspectionUnit": "6602D",
+  "Address": "Số 123, Quốc lộ 80, ấp An Thạnh, xã An Nhơn, huyện Châu Thành, tỉnh Đồng Tháp"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541a9"
+  },
+  "InspectionUnit": "6701S",
+  "Address": "67 khóm Thới Hoà, P.Mỹ Thạnh, T.p Long Xuyên - An Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541aa"
+  },
+  "InspectionUnit": "6702S",
+  "Address": "68 Châu Phú A - TX Châu Đốc - An Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ab"
+  },
+  "InspectionUnit": "6703D",
+  "Address": "Tuyến tránh QL 91 (N1), Khóm Hòa Bình, phường Vĩnh Mỹ, Tp. Châu Đốc, tỉnh An Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ac"
+  },
+  "InspectionUnit": "6801S",
+  "Address": "Khu dân cư BX liên tỉnh, đường số 2, ấp So Đũa, xã Vĩnh Hòa Hiệp, Châu Thành, Kiên Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ad"
+  },
+  "InspectionUnit": "6803D",
+  "Address": "Đường Võ Văn Kiệt, tổ 15, khu phố Dãy Ốc, phường Vĩnh Hiệp, thành phố Rạch Giá, tỉnh Kiên Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ae"
+  },
+  "InspectionUnit": "6901V",
+  "Address": "Ấp 5 - Xã An Xuyên - TP. Cà Mau - Tỉnh Cà Mau"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541af"
+  },
+  "InspectionUnit": "6902D",
+  "Address": "Số 36, đường Võ Văn Kiệt, ấp Tắc Thủ, xã Hồ Thị Kỷ, huyện Thới Bình, tỉnh Cà Mau"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b0"
+  },
+  "InspectionUnit": "7001S",
+  "Address": "82 đường Trần Phú - p. Ninh Sơn - Tp. Tây Ninh - Tỉnh Tây Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b1"
+  },
+  "InspectionUnit": "7002S",
+  "Address": "Đường tránh xuyên Á, P. Gia Lộc, Tx. Tràng Bảng, Tỉnh Tây Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b2"
+  },
+  "InspectionUnit": "7003D",
+  "Address": "đường 793, xã Thạnh Đông, huyện Tân Châu, tỉnh Tây Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b3"
+  },
+  "InspectionUnit": "7101S",
+  "Address": "Số 7 - Nguyễn Văn Tư - P7 - TX Bến Tre - Tỉnh Bến Tre"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b4"
+  },
+  "InspectionUnit": "7102D",
+  "Address": "QL60, ấp Tân Long 1, xã Tân Thành Bình, huyện Mỏ Cày Bắc, tỉnh Bến Tre"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b5"
+  },
+  "InspectionUnit": "7201S",
+  "Address": "47B, Đường 30/4, P. Thắng Nhất, TP Vũng Tàu"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b6"
+  },
+  "InspectionUnit": "7202D",
+  "Address": "QL51, KP2, Phước Trung, TX Bà Rịa - Tỉnh Bà Rịa Vũng Tàu"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b7"
+  },
+  "InspectionUnit": "7203D",
+  "Address": "Đường 1, thị trấn Phú Mỹ, huyện Tân Thành, tỉnh Bà Rịa – Vũng Tàu"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b8"
+  },
+  "InspectionUnit": "7204S",
+  "Address": "Đường D6, khu công nghiệp Đất Đỏ 1, huyện Đất Đỏ, tỉnh Bà Rịa - Vũng Tàu"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541b9"
+  },
+  "InspectionUnit": "7205D",
+  "Address": "KCN Mỹ Xuân A, phường Mỹ Xuân, thị xã Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ba"
+  },
+  "InspectionUnit": "7301S",
+  "Address": "Đường Hữu Cảnh - T.P Đồng Hới - Quảng Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541bb"
+  },
+  "InspectionUnit": "7302D",
+  "Address": "Thanh Lương, quảng Xuân, Quảng Trạch, Quảng Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541bc"
+  },
+  "InspectionUnit": "7303D",
+  "Address": "Thôn Lệ Kỳ 1, xã Vĩnh Ninh, huyện Quảng Ninh, tỉnh Quảng Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541bd"
+  },
+  "InspectionUnit": "7304D",
+  "Address": "Thôn 2, xã Trung Trạch, huyện Bố Trạch, tỉnh Quảng Bình"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541be"
+  },
+  "InspectionUnit": "7401S",
+  "Address": "61 Lý Thương Kiệt - Đông Hà - Quảng Trị"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541bf"
+  },
+  "InspectionUnit": "7402S",
+  "Address": "Km 4 +700 Điện biên Phủ (9D), phường Đông Lương, TP Đông Hà, Quảng Trị"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c0"
+  },
+  "InspectionUnit": "7402D",
+  "Address": "Hà Thanh, xã Gio Châu, Gio Linh, Quảng Trị"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c1"
+  },
+  "InspectionUnit": "7403D",
+  "Address": "Đường Điện Biên Phủ, phường Đông Lương, Tp. Đông Hà, tỉnh Quảng Trị"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c2"
+  },
+  "InspectionUnit": "7501S",
+  "Address": "150 Điện Biên Phủ - TP Huế"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c3"
+  },
+  "InspectionUnit": "7502S",
+  "Address": "Hương Văn, Hương Trà, TT- Huế"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c4"
+  },
+  "InspectionUnit": "7601S",
+  "Address": "Xã Tịnh Phong - Huyện Sơn Tịnh - Quảng Ngãi"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c5"
+  },
+  "InspectionUnit": "7602D",
+  "Address": "QL 1A, thôn Năng Tây 3, xã Nghĩa Phương, huyện Tư Nghĩa, tỉnh Quảng Ngãi"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c6"
+  },
+  "InspectionUnit": "7603D",
+  "Address": "Thôn 4, xã Bình Hòa, huyện Bình Sơn, tỉnh Quảng Ngãi"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c7"
+  },
+  "InspectionUnit": "7604D",
+  "Address": "Xã Hành Thuận, huyện Nghĩa Hành, tỉnh Quảng Ngãi"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c8"
+  },
+  "InspectionUnit": "7701S",
+  "Address": "71 Tây Sơn - Quy Nhơn - Bình Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541c9"
+  },
+  "InspectionUnit": "7702S",
+  "Address": "QLộ 1A - Thôn Vạn Lương - Mỹ Châu - Phú Mỹ - Bình Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ca"
+  },
+  "InspectionUnit": "7703D",
+  "Address": "Khu vực Liên Trực, p. Bình Định, Tx. An Nhơn, tỉnh Bình Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541cb"
+  },
+  "InspectionUnit": "7704D",
+  "Address": "LôA1.01 (khu A), khu kinh tế Nhơn Hội, xã Nhơn Hội, Tp. Quy Nhơn, tỉnh Bình Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541cc"
+  },
+  "InspectionUnit": "7705D",
+  "Address": "Cụm công nghiệp Hoài Tân, khu phố Giao hội 1, phường Hoài Tân, Tx. Hoài Nhơn, tỉnh Bình Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541cd"
+  },
+  "InspectionUnit": "7706D",
+  "Address": "Tổ 23, KV3, phường Nhơn Bình, thành phố Quy Nhơn, tỉnh Bình Định"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ce"
+  },
+  "InspectionUnit": "7801S",
+  "Address": "P.9 - Bình Kiến - Tuy Hòa - Phú Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541cf"
+  },
+  "InspectionUnit": "7802D",
+  "Address": "Km48+450, Quốc lộ 25, xã Suối Bạc, huyện Sơn Hòa, tỉnh Phú Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d0"
+  },
+  "InspectionUnit": "7803D",
+  "Address": "Km 1319+300, Quốc lộ 1A, xã An Chấn, huyện Tuy An, tỉnh Phú Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d1"
+  },
+  "InspectionUnit": "7901S",
+  "Address": "Đường 2 tháng 4 - Đồng Đế - Vĩnh Hoà - Nha Trang - Khánh Hoà"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d2"
+  },
+  "InspectionUnit": "7902S",
+  "Address": "QL1A, Phú Sơn, Cam Phú, Cam Ranh, Khánh Hòa"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d3"
+  },
+  "InspectionUnit": "8102D",
+  "Address": "Làng Phung, xã Biển Hồ, Pleiku-Gia Lai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d4"
+  },
+  "InspectionUnit": "8103D",
+  "Address": "Nguyễn Chí Thanh, tổ 5, p. Chi Lăng, TP. Pleiku, Gia Lai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d5"
+  },
+  "InspectionUnit": "8104D",
+  "Address": "thôn 2 xã Đak Bơ, huyện Đak Bơ, GiaLai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d6"
+  },
+  "InspectionUnit": "8105D",
+  "Address": "Lô C50 Cụm CN Diên Phú, thôn 3, xã Diên Phú, Tp Pleiku, tỉnh Gia Lai"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d7"
+  },
+  "InspectionUnit": "8201S",
+  "Address": "Số 99 Huỳnh Thúc Kháng - TX Kon Tum - Tỉnh Kon Tum"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d8"
+  },
+  "InspectionUnit": "8301V",
+  "Address": "191A - Trần Hưng Đạo - TX Sóc Trăng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541d9"
+  },
+  "InspectionUnit": "8302D",
+  "Address": "Ấp Xây Đá B, xã Hồ Đắc Kiện, huyện Châu Thành, tỉnh Sóc Trăng"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541da"
+  },
+  "InspectionUnit": "8401V",
+  "Address": "151 Nguyễn Đáng - P.7 - TX Trà Vinh - Trà Vinh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541db"
+  },
+  "InspectionUnit": "8402D",
+  "Address": "ấp Sâm Bua, xã Lương Hòa, huyện Châu Thành, tỉnh Trà Vinh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541dc"
+  },
+  "InspectionUnit": "8501S",
+  "Address": "Bình Quý - Phước Dân - Ninh Phước - Ninh Thuận"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541dd"
+  },
+  "InspectionUnit": "8502D",
+  "Address": "Thôn Văn Lâm 3, xã Phước Nam, huyện Thuận Nam, tỉnh Ninh Thuận"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541de"
+  },
+  "InspectionUnit": "8601S",
+  "Address": "Số 5 Từ Văn Tư - Phan Thiết - Bình Thuận"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541df"
+  },
+  "InspectionUnit": "8602D",
+  "Address": "Km 32 xã Tân Lập, Hàm Thuận Nam, Bình Thuận"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e0"
+  },
+  "InspectionUnit": "8801S",
+  "Address": "Xã Khai Quang - T.P Vĩnh Yên - Vĩnh Phúc"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e1"
+  },
+  "InspectionUnit": "8802D",
+  "Address": "Thôn Yên Lỗ - xã Đạo Đức, huyện Bình Xuyên - Vĩnh Phúc"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e2"
+  },
+  "InspectionUnit": "8803D",
+  "Address": "phố Chợ Lầm, xã Tam Hồng, huyện Yên Lạc, tỉnh Vĩnh Phúc"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e3"
+  },
+  "InspectionUnit": "8804D",
+  "Address": "Km 40+500, Quốc lộ 2A, xã Hợp Thịnh, huyện Tam Dương, tỉnh Vĩnh Phúc"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e4"
+  },
+  "InspectionUnit": "8806D",
+  "Address": "Xã Quất Lưu, huyện Bình Xuyên, tỉnh Vĩnh Phúc"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e5"
+  },
+  "InspectionUnit": "8901S",
+  "Address": "Xã Dị Sử - Mỹ Hào - Hưng Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e6"
+  },
+  "InspectionUnit": "8902S",
+  "Address": "Thôn Tiền Thắng - Bảo Khê - TX Hưng Yên - Hưng Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e7"
+  },
+  "InspectionUnit": "8904D",
+  "Address": "Thôn Lại Ốc, xã Long Hưng, huyện Văn Giang, tỉnh Hưng Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e8"
+  },
+  "InspectionUnit": "8905D",
+  "Address": "Thôn Nghĩa Trang, thị trấn Yên Mỹ, huyện Yên Mỹ, tỉnh Hưng Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541e9"
+  },
+  "InspectionUnit": "8906D",
+  "Address": "Thửa đất số 302, tờ bản đồ số 07, xã Nghĩa Dân, huyện Kim Động, tỉnh Hưng Yên"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ea"
+  },
+  "InspectionUnit": "9001S",
+  "Address": "Xã Liêm Tiết, T.P Phủ Lý - Hà Nam"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541eb"
+  },
+  "InspectionUnit": "9002D",
+  "Address": "Km 229, Tuyến tránh Quốc lộ 1A, xã Thi Sơn, huyện Kim Bảng, tỉnh Hà Nam"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ec"
+  },
+  "InspectionUnit": "9201D",
+  "Address": "Ngã ba Tây Cốc, Hà Lam, Thăng Bình, Quảng Nam"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ed"
+  },
+  "InspectionUnit": "9202D",
+  "Address": "QL. 1A, khối Phong Nhị, P. Điện An, TX. Điện Bàn, tỉnh Quảng Nam"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ee"
+  },
+  "InspectionUnit": "9301S",
+  "Address": "P. Tân Xuân - TX Đồng Xoài - Tỉnh Bình Phước"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ef"
+  },
+  "InspectionUnit": "9302D",
+  "Address": "Tổ 1, Ấp 9, Minh Hưng, Chơn Thành, Bình Phước"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f0"
+  },
+  "InspectionUnit": "9303D",
+  "Address": "Đường ĐT 741, xã Tân Lập, huyện Đồng Phú, tỉnh Bình Phước"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f1"
+  },
+  "InspectionUnit": "9304D",
+  "Address": "Tổ 3, ấp Thuận Thành 2, xã Thuận Lợi, huyện Đồng Phú, tỉnh Bình Phước"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f2"
+  },
+  "InspectionUnit": "9401V",
+  "Address": "QL 1 - Phường 7 - Xã Long Thạnh, Huyện Vĩnh Lợi- Bạc Liêu"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f3"
+  },
+  "InspectionUnit": "9501S",
+  "Address": "Km 2085 - QL 1- Tân Phú Thạnh - Châu Thành A - Hậu Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f4"
+  },
+  "InspectionUnit": "9502D",
+  "Address": "QL 91C, Ấp Nhơn Thuận 1, xã Nhơn Nghĩa A, huyện Châu Thành A, tỉnh Hậu Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f5"
+  },
+  "InspectionUnit": "9503D",
+  "Address": "Ấp 7, xã Vị Trung, huyện Vị Thủy, tỉnh Hậu Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f6"
+  },
+  "InspectionUnit": "9701D",
+  "Address": "Tổ 9 - Phùng Chí Kiên - TX Bắc Kạn - Bắc Kạn"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f7"
+  },
+  "InspectionUnit": "9801S",
+  "Address": "Đồi Chỉ Chèo - Xương Giang - Bắc Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f8"
+  },
+  "InspectionUnit": "9802D",
+  "Address": "Km2, đường Hoàng Hoa Thám, P. Đại Mai, TP. Bắc Giang, tỉnh Bắc Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541f9"
+  },
+  "InspectionUnit": "9803D",
+  "Address": "Cụm công nghiệp Tân Dĩnh – Phi Mô, huyện Lạng Giang, tỉnh Bắc Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541fa"
+  },
+  "InspectionUnit": "9804D",
+  "Address": "Thôn chớp, xã Lương Phong, huyện Hiệp Hòa, tỉnh Bắc Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541fb"
+  },
+  "InspectionUnit": "9805D",
+  "Address": "Thôn Dõng, xã Hương Gián, huyện Yên Dũng, tỉnh Bắc Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541fc"
+  },
+  "InspectionUnit": "9806D",
+  "Address": "Cụm công nghiệp Tân Dĩnh - Phi Mô, thị trấn Vôi, huyện Lạng Giang, tỉnh Bắc Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541fd"
+  },
+  "InspectionUnit": "9807D",
+  "Address": "Thôn Đình, xã Khám Lạng, huyện Lục Nam, tỉnh Bắc Giang"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541fe"
+  },
+  "InspectionUnit": "9901S",
+  "Address": "Khu 7 - P.Thị Cầu - TP. Bắc Ninh - Tỉnh Bắc Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec541ff"
+  },
+  "InspectionUnit": "9902S",
+  "Address": "Thôn Dương Sơn – Xã Tam Sơn – TX Từ Sơn - Tỉnh Bắc Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54200"
+  },
+  "InspectionUnit": "9903D",
+  "Address": "Km 10, QL 18, TT Phố Mới, Quế Võ, Bắc Ninh"
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54201"
+  },
+  "InspectionUnit": "9904D",
+  "Address": "Khu công nghiệp Lâm Bình, xã Lâm Thao, huyện Lương Tài, tỉnh Bắc Ninh."
+},
+{
+  "_id": {
+    "$oid": "6485743058de32440ec54202"
+  },
+  "InspectionUnit": "9905D",
+  "Address": "thôn Ngọc Trì, xã Ngọc Nội, huyện Thuận Thành, tỉnh Bắc Ninh"
+}]

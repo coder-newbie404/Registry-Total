@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6485778b58de32440ec54208"
+  },
+  "Account": "admin",
+  "Password": "admin",
+  "PhoneNumber": 123456789,
+  "Email": "admin@gmail.com",
+  "Permission": 3
+},
+{
+  "_id": {
+    "$oid": "6485778b58de32440ec54209"
+  },
+  "Account": "2902S",
+  "Password": "hanoi",
+  "PhoneNumber": 213456789,
+  "Email": "2902S@gmail.com",
+  "Permission": 2
+},
+{
+  "_id": {
+    "$oid": "6485778b58de32440ec5420a"
+  },
+  "Account": "user",
+  "Password": "user",
+  "PhoneNumber": 312456789,
+  "Email": "user@gmail.com",
+  "Permission": 1
+}]
