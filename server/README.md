@@ -4,11 +4,12 @@
 - cổng 4000
 - URL cho từng request:
     + Thêm acc mới: POST '/newacc'
-        axios param:    acc: tên tk
-                        pwd: mk
-                        phone: sdt
-                        email: email
-        return : "inserted data.." || error?
+        - axios param:    
+            - acc: tên tk
+            - pwd: mk
+            - phone: sdt
+            - email: email
+        - return : "inserted data.." || error?
     + Thêm trung tâm đăng kiểm: POST '/newregisloc'
         axios param:    unit: mã đơn vị
                         addr: địa chỉ
