@@ -14,6 +14,7 @@ html {
 
 body {
     min-height: 100vh;
+    background-image: url(./images/background.webp);
     background-size: cover ;
 }
 
@@ -51,6 +52,9 @@ a, a:visited {
 }
 
 input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"],
 input[type="password"],
 button,
 textarea {

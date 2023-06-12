@@ -1,51 +1,48 @@
+import Register from './components/Register';
+import Login from './components/Login';
+import Home from './components/Home';
+import Layout from './components/Layout';
+import Editor from './components/Editor';
+import Admin from './components/Admin';
+import Missing from './components/Missing';
+import Unauthorized from './components/Unauthorized';
+import RequireAuth from './components/RequireAuth';
+import { Routes, Route } from 'react-router-dom';
 
-import './App.css';
-import React, { useState } from 'react';
-import Axios from 'axios';
-
-
-
+const ROLES = {
+  'User': 1,
+  'Editor': 2,
+  'Admin': 3
+}
 
 function App() {
 
-  const [name, setName] = useState("")
-  const [role, setRole] = useState("")
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    Axios.get('http://localhost:4000/regisloclst')
-    .then(function (response) {
-      console.log(response.data);
-    })
- 
-  }
   return (
-    <div className="App">
-      <header className="App-header">      
-        <div className="logIn-form">
-            <form onSubmit={handleSubmit}>
-                <p>First Name</p>
-                  <input
-                  className = "Name" 
-                  type="text" 
-                  name="name" 
-                  placeholder="First name ..."
-                  onChange={(e) => {setName(e.target.value)}}
-                  />
+    <Routes>
+      <Route path="/" element={<Layout />}>
+        {/* public routes */}
+        <Route path="login" element={<Login />} />
+        <Route path="register" element={<Register />} />
+        <Route path="unauthorized" element={<Unauthorized />} />
 
-                <p> Company Role</p>
-                  <input 
-                  className = "Role"
-                  type="text" 
-                  name ="Role" 
-                  placeholder = "Role...." 
-                  onChange={(e) => {setRole(e.target.value)}}
-                  />
-                  <button type="submit">Submit</button>
-            </form>
-        </div>
-      </header>
-    </div>
+        {/* we want to protect these routes */}
+        <Route element={<RequireAuth allowedRoles={[ROLES.User]} />}>
+          <Route path="/" element={<Home />} />
+        </Route>
+
+        <Route element={<RequireAuth allowedRoles={[ROLES.Editor]} />}>
+          <Route path="editor" element={<Editor />} />
+        </Route>
+
+
+        <Route element={<RequireAuth allowedRoles={[ROLES.Admin]} />}>
+          <Route path="admin" element={<Admin />} />
+        </Route>
+
+        {/* catch all */}
+        <Route path="*" element={<Missing />} />
+      </Route>
+    </Routes>
   );
 }
 
