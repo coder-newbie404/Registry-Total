@@ -1,9 +1,10 @@
 [{
   "_id": {
-    "$oid": "6485d90221a85a17d181a7cb"
+    "$oid": "6487c57aeedd491723f2add6"
   },
   "account": "admin",
   "password": "admin",
+  "ssn": "001202015111",
   "phoneNumber": "123456789",
   "dateOfBirth": "09/09/2002",
   "email": "admin@gmail.com",
@@ -11,10 +12,11 @@
 },
 {
   "_id": {
-    "$oid": "6485d90221a85a17d181a7cc"
+    "$oid": "6487c57aeedd491723f2add7"
   },
   "account": "2902S",
   "password": "hanoi",
+  "ssn": "001202016122",
   "phoneNumber": "213456789",
   "dateOfBirth": "01/01/2000",
   "email": "2902S@gmail.com",
@@ -22,10 +24,11 @@
 },
 {
   "_id": {
-    "$oid": "6485d90221a85a17d181a7cd"
+    "$oid": "6487c57aeedd491723f2add8"
   },
   "account": "user",
   "password": "user",
+  "ssn": "001202017131",
   "phoneNumber": "312456789",
   "dateOfBirth": "23/10/2002",
   "email": "user@gmail.com",
