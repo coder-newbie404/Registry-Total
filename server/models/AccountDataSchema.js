@@ -9,6 +9,18 @@ const AccountFormDataSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
+    roles: {
+        type: Number,
+        required: true,
+    },
+    city: {
+        type: String,
+        required: true,
+    },
+    inspectionUnit: {
+        type: String,
+        required: true
+    },
     phoneNumber: {
         type: String,
         required: true,
@@ -19,10 +31,6 @@ const AccountFormDataSchema = new mongoose.Schema({
     },
     email: {
         type: String,
-        required: true,
-    },
-    permission: {
-        type: Number,
         required: true,
     }
 });
