@@ -321,6 +321,20 @@ app.post("/auth", async (req, res) => {
     }
 });
 
+app.post("/auth", async (req, res) => {
+    const level = req.body.n;
+
+    try {
+        const accountList = await Account.find({
+            roles: level
+        }).exec();
+        console.log(JSON.stringify(accountList));
+        res.json(accountList);
+    } catch (err) {
+        res.status();
+    }
+});
+
 const port = process.env.PORT || 4000;
 app.listen(port, () => {
     console.log(`Server started on port ${port}`);
