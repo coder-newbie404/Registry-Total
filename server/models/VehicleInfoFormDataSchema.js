@@ -38,15 +38,11 @@ const VehicleInfoFormDataSchema = new mongoose.Schema({
     required: true,
   },
   commercialUse: {
-    type: String,
+    type: Boolean,
     required: true,
   },
   modification: {
-    type: String,
-    required: true,
-  },
-  updateFields: {
-    type: String,
+    type: Boolean,
     required: true,
   },
   wheelFormula:{
@@ -130,18 +126,14 @@ picture:{
     required: true,
 },
 equippedWithTachograph:{
-    type: String,
+    type: Boolean,
     required: true,
 },
 inspectionStamp:{
-    type: String,
+    type: Boolean,
     required: true,
 },
 note:{
-    type: String,
-    required: true,
-},
-updateFields:{
     type: String,
     required: true,
 }

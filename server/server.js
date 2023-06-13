@@ -31,7 +31,7 @@ app.post("/newuseracc", async (req, res) => {
     }
 });
 
-app.get("/useracc", async (req, res) => {
+app.post("/useracc", async (req, res) => {
     try {
         const accountList = await Account.find({
             roles: 1,
@@ -76,13 +76,15 @@ app.post("/deluseracc", async (req, res) => {
 });
 
 app.post("/newunitacc", async (req, res) => {
-    const formData = new Account({
-        account: req.body.account,
-        password: req.body.password,
-        roles: 2,
-        city: req.body.city,
-        inspectionUnit: req.body.inspectionUnit
-    });
+    const formData = new Account(
+        {
+            account: req.body.account,
+            password: req.body.password,
+            roles: 2,
+            city: req.body.city,
+            inspectionUnit: req.body.inspectionUnit
+        }
+    )
     try {
         await formData.save();
         res.send("inserted data..");
@@ -91,7 +93,7 @@ app.post("/newunitacc", async (req, res) => {
     }
 });
 
-app.get("/unitacc", async (req, res) => {
+app.post("/unitacc", async (req, res) => {
     try {
         const accountList = await Account.find({
             roles: 2,
@@ -195,8 +197,7 @@ app.post("/newvehicleinfo", async (req, res) => {
         picture: req.body.picture,
         equippedWithTachograph: req.body.equippedWithTachograph,
         inspectionStamp: req.body.inspectionStamp,
-        note: req.body.note,
-        updateFields: req.body.updateFields
+        note: req.body.note
     });
     try {
         await formData.save();
@@ -272,7 +273,7 @@ app.post("/updvehicles", async (req, res) => {
 
 app.post("/delvehicle", async (req, res) => {
     try {
-        const accountList = await Vehicle.deleteMany({
+        const accountList = await Vehicle.deleteOne({
             registrationPlate: req.body.registrationPlate
         }).exec();
         console.log(JSON.stringify(accountList));
@@ -321,7 +322,7 @@ app.post("/auth", async (req, res) => {
     }
 });
 
-app.post("/auth", async (req, res) => {
+app.post("/authn", async (req, res) => {
     const level = req.body.n;
 
     try {
