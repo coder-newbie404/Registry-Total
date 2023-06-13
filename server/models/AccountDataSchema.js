@@ -14,7 +14,7 @@ const AccountFormDataSchema = new mongoose.Schema({
         required: true,
     },
     ssn: {
-        type: String,
+        type: Number,
         required: true,
     },
     city: {

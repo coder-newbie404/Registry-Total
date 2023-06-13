@@ -10,7 +10,7 @@ const OwnerFormDataSchema = new mongoose.Schema({
         required: true,
     },
     ssn: {
-        type: String,
+        type: Number,
         required: true,
     },
     email: {
