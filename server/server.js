@@ -14,11 +14,12 @@ mongoose.connect("mongodb://localhost:27017/DB", { useNewUrlParser: true });
 
 app.post("/newuseracc", async (req, res) => {
     const formData = new Account({
-        account: req.body.acc,
-        password: req.body.pwd,
+        account: req.body.account,
+        password: req.body.password,
         roles: 1,
-        phoneNumber: req.body.phone,
-        dateOfBirth: req.body.birth,
+        ssn: req.body.ssn,
+        phoneNumber: req.body.phoneNumber,
+        dateOfBirth: req.body.dateOfBirth,
         email: req.body.email
     });
     try {
@@ -41,13 +42,25 @@ app.get("/useracc", async (req, res) => {
     }
 });
 
+app.post("/deluseracc", async (req, res) => {
+    try {
+        const accountList = await Account.deleteMany({
+            ssn: req.body.ssn
+        }).exec();
+        console.log(JSON.stringify(accountList));
+        res.json(accountList);
+    } catch (err) {
+        res.status();
+    }
+})
+
 app.post("/newunitacc", async (req, res) => {
     const formData = new Account({
-        account: req.body.acc,
-        password: req.body.pwd,
+        account: req.body.account,
+        password: req.body.password,
         roles: 2,
         city: req.body.city,
-        inspectionUnit: req.body.unit
+        inspectionUnit: req.body.inspectionUnit
     });
     try {
         await formData.save();
@@ -61,6 +74,18 @@ app.get("/unitacc", async (req, res) => {
     try {
         const accountList = await Account.find({
             roles: 2,
+        }).exec();
+        console.log(JSON.stringify(accountList));
+        res.json(accountList);
+    } catch (err) {
+        res.status();
+    }
+});
+
+app.post("/delunitacc", async (req, res) => {
+    try {
+        const accountList = await Account.deleteMany({
+            inspectionUnit: req.body.inspectionUnit
         }).exec();
         console.log(JSON.stringify(accountList));
         res.json(accountList);

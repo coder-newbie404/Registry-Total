@@ -13,6 +13,10 @@ const AccountFormDataSchema = new mongoose.Schema({
         type: Number,
         required: true,
     },
+    ssn: {
+        type: String,
+        required: true,
+    },
     city: {
         type: String,
         required: true,
