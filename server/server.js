@@ -43,6 +43,26 @@ app.get("/useracc", async (req, res) => {
     }
 });
 
+app.post("/upduseracc", async (req, res) => {
+    try {
+        const accountList = await Account.updateMany({
+            ssn: req.body.oldssn
+        }, {
+            account: req.body.account,
+            password: req.body.password,
+            roles: 1,
+            ssn: req.body.ssn,
+            phoneNumber: req.body.phoneNumber,
+            dateOfBirth: req.body.dateOfBirth,
+            email: req.body.email
+        }).exec();
+        console.log(JSON.stringify(accountList));
+        res.json(accountList);
+    } catch (err) {
+        res.status();
+    }
+});
+
 app.post("/deluseracc", async (req, res) => {
     try {
         const accountList = await Account.deleteMany({
@@ -53,7 +73,7 @@ app.post("/deluseracc", async (req, res) => {
     } catch (err) {
         res.status();
     }
-})
+});
 
 app.post("/newunitacc", async (req, res) => {
     const formData = new Account({
@@ -75,6 +95,24 @@ app.get("/unitacc", async (req, res) => {
     try {
         const accountList = await Account.find({
             roles: 2,
+        }).exec();
+        console.log(JSON.stringify(accountList));
+        res.json(accountList);
+    } catch (err) {
+        res.status();
+    }
+});
+
+app.post("/updunitacc", async (req, res) => {
+    try {
+        const accountList = await Account.updateMany({
+            inspectionUnit: req.body.oldinspectionUnit
+        }, {
+            account: req.body.account,
+            password: req.body.password,
+            roles: 2,
+            city: req.body.city,
+            inspectionUnit: req.body.inspectionUnit
         }).exec();
         console.log(JSON.stringify(accountList));
         res.json(accountList);
@@ -205,6 +243,28 @@ app.get("/vehicles", async (req, res) => {
         const vehiclesList = await Vehicle.find().exec();
         console.log(JSON.stringify(vehiclesList));
         res.json(vehiclesList);
+    } catch (err) {
+        res.status();
+    }
+});
+
+app.post("/updvehicles", async (req, res) => {
+    try {
+        const accountList = await Vehicle.updateMany({
+            registrationPlate: req.body.registrationPlate
+        }, {
+            registrationPlate: req.body.registrationPlate,
+            registrationDate: req.body.registrationDate,
+            brand: req.body.brand,
+            owner: req.body.owner,
+            address: req.body.address,
+            inspectionDate: req.body.inspectionDate,
+            inspectionUnit: req.body.inspectionUnit,
+            inspectionNumber: req.body.inspectionNumber,
+            certificateExpiration: req.body.certificateExpiration
+        }).exec();
+        console.log(JSON.stringify(accountList));
+        res.json(accountList);
     } catch (err) {
         res.status();
     }
