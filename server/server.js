@@ -69,32 +69,6 @@ app.get("/unitacc", async (req, res) => {
     }
 });
 
-app.post("/newadminacc", async (req, res) => {
-    const formData = new Account({
-        account: req.body.acc,
-        password: req.body.pwd,
-        roles: 3
-    });
-    try {
-        await formData.save();
-        res.send("inserted data..");
-    } catch (err) {
-        console.log(err);
-    }
-});
-
-app.get("/adminacc", async (req, res) => {
-    try {
-        const accountList = await Account.find({
-            roles: 3,
-        }).exec();
-        console.log(JSON.stringify(accountList));
-        res.json(accountList);
-    } catch (err) {
-        res.status();
-    }
-});
-
 app.post("/newowner", async (req, res) => {
     const formData = new Owner({
         firstName: req.body.firstName,
