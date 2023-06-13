@@ -6,6 +6,7 @@ const Account = require("./models/AccountDataSchema");
 const InspectionUnit = require("./models/InspectionUnitFormDataSchema");
 const VehicleInfo = require("./models/VehicleInfoFormDataSchema");
 const Owner = require("./models/OwnerFormDataSchema")
+const Vehicle = require("./models/VehicleFormDataSchema")
 
 app.use(express.json());
 app.use(cors());
@@ -177,6 +178,49 @@ app.get("/vehicleinfo", async (req, res) => {
         res.status();
     }
 });
+
+app.post("/newvehicle", async (req, res) => {
+    const formData = new Vehicle({
+        registrationPlate: req.body.registrationPlate,
+        registrationDate: req.body.registrationDate,
+        brand: req.body.brand,
+        owner: req.body.owner,
+        address: req.body.address,
+        inspectionDate: req.body.inspectionDate,
+        inspectionUnit: req.body.inspectionUnit,
+        inspectionNumber: req.body.inspectionNumber,
+        certificateExpiration: req.body.certificateExpiration
+    });
+    try {
+        await formData.save();
+        res.send("inserted data..");
+    } catch (err) {
+        console.log(err);
+        res.send(err);
+    }
+});
+
+app.get("/vehicles", async (req, res) => {
+    try {
+        const vehiclesList = await Vehicle.find().exec();
+        console.log(JSON.stringify(vehiclesList));
+        res.json(vehiclesList);
+    } catch (err) {
+        res.status();
+    }
+});
+
+app.post("/delvehicle", async (req, res) => {
+    try {
+        const accountList = await Vehicle.deleteMany({
+            registrationPlate: req.body.registrationPlate
+        }).exec();
+        console.log(JSON.stringify(accountList));
+        res.json(accountList);
+    } catch (err) {
+        res.status();
+    }
+})
 
 app.post("/newregisloc", async (req, res) => {
     const formData = new InspectionUnit({
